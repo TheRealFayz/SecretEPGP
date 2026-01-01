@@ -1,0 +1,141 @@
+__**:shield:Shared Tokens:shield:**__
+* **Tokens** - **(Priest/Mage/Warlock))** **(Paladin/Hunter/Shaman/Druid)** **(Warrior/Rogue)**
+**[Tier 3 (Finger)](https://www.wowhead.com/classic/guide/naxxramas-tier-3-armor-set-wow-classic)** - 160
+**[Tier 3 (Chest)](https://www.wowhead.com/classic/guide/naxxramas-tier-3-armor-set-wow-classic)** - 148
+**[Tier 3 (Legs)](https://www.wowhead.com/classic/guide/naxxramas-tier-3-armor-set-wow-classic)** - 136
+**[Tier 3 (Head)](https://www.wowhead.com/classic/guide/naxxramas-tier-3-armor-set-wow-classic)** - 120
+**[Tier 3 (Shoulders)](https://www.wowhead.com/classic/guide/naxxramas-tier-3-armor-set-wow-classic)** - 100
+**[Tier 3 (Wrists)](https://www.wowhead.com/classic/guide/naxxramas-tier-3-armor-set-wow-classic)** - 84
+**[Tier 3 (Waist)](https://www.wowhead.com/classic/guide/naxxramas-tier-3-armor-set-wow-classic)** - 92
+**[Tier 3 (Hands)](https://www.wowhead.com/classic/guide/naxxramas-tier-3-armor-set-wow-classic)** - 96
+**[Tier 3 (Feet)](https://www.wowhead.com/classic/guide/naxxramas-tier-3-armor-set-wow-classic)** - 92
+
+__**:shield:Head:shield:**__
+**[Icebane Helmet](https://database.turtle-wow.org/?item=23019)** - 4  
+**[Polar Helmet](https://database.turtle-wow.org/?item=23020)** - 4  
+**[Glacial Headdress](https://database.turtle-wow.org/?item=23032)** - 4 
+**[Icy Scale Coif](https://database.turtle-wow.org/?item=23033)** - 4  
+**[Preceptor's Hat](https://database.turtle-wow.org/?item=23035)** - 112 
+
+__**:shield:Shoulders:shield:**__
+**[Icebane Pauldrons](https://database.turtle-wow.org/?item=22940)** - 4
+**[Polar Shoulderpads](https://database.turtle-wow.org/?item=22941)** - 4  
+**[Icy Scale Spaulders](https://database.turtle-wow.org/?item=22967)** - 4  
+**[Glacial Mantle](https://database.turtle-wow.org/?item=22968)** - 4  
+**[Rime Covered Mantle](https://database.turtle-wow.org/?item=22983)** - 115  
+**[Pauldrons of Elemental Fury](https://database.turtle-wow.org/?item=23664)** - 64  
+**[Spaulders of the Grand Crusader](https://database.turtle-wow.org/?item=23667)** - 64  
+
+__**:shield:Chest:shield:**__
+**[Plated Abomination Ribcage](https://database.turtle-wow.org/?item=23000)** - 136  
+**[Necro-knight Garb](https://database.turtle-wow.org/?item=23069)** - 125  
+**[Crystal Webbed Robe](https://database.turtle-wow.org/?item=23220)** - 132  
+**[Ghoul Skin Tunic](https://database.turtle-wow.org/?item=23226)** - 124  
+
+__**:shield:Wrists:shield:**__
+**[Wristguards of Vengeance](https://database.turtle-wow.org/?item=22936)** - 80
+**[The Soul Harvester's Bindings](https://database.turtle-wow.org/?item=23021)** - 90  
+**[Belt of the Grand Crusader](https://database.turtle-wow.org/?item=23666)** - 64  
+
+__**:shield:Hands:shield:**__
+
+__**:shield:Legs:shield:**__
+**[Legplates of Carnage](https://database.turtle-wow.org/?item=23068)** - 124  
+**[Leggings of Polarity](https://database.turtle-wow.org/?item=23070)** - 136  
+**[Leggings of Apocalypse](https://database.turtle-wow.org/?item=23071)** - 144  
+**[Leggings of Elemental Fury](https://database.turtle-wow.org/?item=23665)** - 64  
+**[Leggings of the Grand Crusader](https://database.turtle-wow.org/?item=23668)** - 64  
+
+__**:shield:Waist:shield:**__
+**[Girdle of the Mentor](https://database.turtle-wow.org/?item=23219)** - 124  
+**[Girdle of Elemental Fury](https://database.turtle-wow.org/?item=23663)** - 64  
+
+__**:shield:Feet:shield:**__
+**[Boots of Displacement](https://database.turtle-wow.org/?item=23073)** - 64  
+
+__**:shield:Back:shield:**__
+**[Cryptfiend Silk Cloak](https://database.turtle-wow.org/?item=22938)** - 150
+**[Cloak of Suturing](https://database.turtle-wow.org/?item=22960)** - 150 
+**[Veil of Eclipse](https://database.turtle-wow.org/?item=23017)** - 80  
+**[Cloak of the Scourge](https://database.turtle-wow.org/?item=23030)** - 100  
+**[Shroud of Dominion](https://database.turtle-wow.org/?item=23045)** - 160  
+**[Cloak of the Necropolis](https://database.turtle-wow.org/?item=23050)** - 160  **[Stormrage's Talisman of Seething](https://database.turtle-wow.org/?item=23053)** - 140  
+
+__**:shield:Jewlery:shield:**__
+**[Touch of Frost](https://database.turtle-wow.org/?item=22935)** - 4
+**[Band of Unanswered Prayers](https://database.turtle-wow.org/?item=22939)** - 100
+**[Malice Stone Pendant](https://database.turtle-wow.org/?item=22943)** - 60  
+**[Pendant of Forgotten Names](https://database.turtle-wow.org/?item=22947)** - 90  
+**[Kiss of the Spider](https://database.turtle-wow.org/?item=22954)** - 375 
+**[Band of Reanimation](https://database.turtle-wow.org/?item=22961)** - 100   
+**[Gluth's Missing Collar](https://database.turtle-wow.org/?item=22981)** - 80  
+**[Eye of Diminution](https://database.turtle-wow.org/?item=23001)** - 375  
+**[Idol of Longevity](https://database.turtle-wow.org/?item=23004)** - 48  
+**[Totem of Flowing Water](https://database.turtle-wow.org/?item=23005)** - 48 
+**[Signets of the Fallen Defender](https://database.turtle-wow.org/?item=23018)** - 100  
+**[Sadist's Collar](https://database.turtle-wow.org/?item=23023)** - 90 
+**[Seal of the Damned](https://database.turtle-wow.org/?item=23025)** - 100 
+**[Warmth of Forgiveness](https://database.turtle-wow.org/?item=23027)** - 375 
+**[Hailstone Band](https://database.turtle-wow.org/?item=23028)** - 4   
+**[Band of the Inevitable](https://database.turtle-wow.org/?item=23031)** - 100  
+**[Necklace of Necropsy](https://database.turtle-wow.org/?item=23036)** - 90  
+**[Ring of Spiritual Fervor](https://database.turtle-wow.org/?item=23037)** - 64  
+**[Band of Unnatural Forces](https://database.turtle-wow.org/?item=23038)** - 100 
+**[Glyph of Deflection](https://database.turtle-wow.org/?item=23040)** - 375  
+**[Slayer's Crest](https://database.turtle-wow.org/?item=23041)** - 375   
+**[Loatheb's Reflection](https://database.turtle-wow.org/?item=23042)** - 4  
+**[The Restrained Essence of Sapphiron](https://database.turtle-wow.org/?item=23046)** - 375  
+**[Eye of the Dead](https://database.turtle-wow.org/?item=23047)** - 375  
+**[Gem of Trapped Innocents](https://database.turtle-wow.org/?item=23057)** - 140  
+**[Ring of Eternal Flame](https://database.turtle-wow.org/?item=23237)** - 100  
+
+__**:shield:Weapons:shield:**__
+**[Corrupted Ashbringer](https://database.turtle-wow.org/?item=22691)** - 450
+**[Might of Menethil](https://database.turtle-wow.org/?item=22798)** - 450
+**[Soulseeker](https://database.turtle-wow.org/?item=22799)** - 350
+**[Brimstone Staff](https://database.turtle-wow.org/?item=22800)** - 450
+**[Spire of Twilight](https://database.turtle-wow.org/?item=22801)** - 450
+**[Kingsfall](https://database.turtle-wow.org/?item=22802)** - 300
+**[Midnight Haze](https://database.turtle-wow.org/?item=22803)** - 300
+**[Maexxna's Fang](https://database.turtle-wow.org/?item=22804)** - 300
+**[Widow's Remorse](https://database.turtle-wow.org/?item=22806)** - 300
+**[Wraith Blade](https://database.turtle-wow.org/?item=22807)** - 300
+**[The Castigator](https://database.turtle-wow.org/?item=22808)** - 300
+**[Maul of the Redeemed Crusader](https://database.turtle-wow.org/?item=22809)** - 450
+**[Toxin Injector](https://database.turtle-wow.org/?item=22810)** - 64
+**[Soulstring](https://database.turtle-wow.org/?item=22811)** - 450
+**[Nerubian Slavemaker](https://database.turtle-wow.org/?item=22812)** - 450
+**[Claymore of Unholy Might](https://database.turtle-wow.org/?item=22813)** - 450
+**[Severance](https://database.turtle-wow.org/?item=22815)** - 450
+**[Hatchet of Sundered Bone](https://database.turtle-wow.org/?item=22816)** - 300
+**[The Plague Bearer](https://database.turtle-wow.org/?item=22818)** - 150
+**[Shield of Condemnation](https://database.turtle-wow.org/?item=22819)** - 200
+**[Wand of Fates](https://database.turtle-wow.org/?item=22820)** - 100
+**[Doomfinger](https://database.turtle-wow.org/?item=22821)** - 150
+**[Gem of Nerubis](https://database.turtle-wow.org/?item=22937)** - 48
+**[The Widow's Embrace](https://database.turtle-wow.org/?item=22942)** - 300  
+**[The End of Dreams](https://database.turtle-wow.org/?item=22988)** - 300  
+**[Digested Hand of Power](https://database.turtle-wow.org/?item=22994)** - 24  
+**[Wand of the Whispering Dead](https://database.turtle-wow.org/?item=23009)** - 100  
+**[Iblis, Blade of the Fallen Seraph](https://database.turtle-wow.org/?item=23014)** - 300  
+**[Noth's Frigid Heart](https://database.turtle-wow.org/?item=23029)** - 150  
+**[The Eye of Nerub](https://database.turtle-wow.org/?item=23039)** - 450  
+**[The Face of Death](https://database.turtle-wow.org/?item=23043)** - 200  
+**[Harbinger of Doom](https://database.turtle-wow.org/?item=23044)** - 300  
+**[Sapphiron's Right Eye](https://database.turtle-wow.org/?item=23048)** - 160  
+**[Sapphiron's Left Eye](https://database.turtle-wow.org/?item=23049)** - 160  
+**[Gressil, Dawn of Ruin](https://database.turtle-wow.org/?item=23054)** - 350  
+**[Hammer of the Twisting Nether](https://database.turtle-wow.org/?item=23056)** - 350 
+**[Death's Bargain](https://database.turtle-wow.org/?item=23075)** - 150   
+**[Misplaced Servo Arm](https://database.turtle-wow.org/?item=23221)** - 150  
+**[Stygian Buckler](https://database.turtle-wow.org/?item=23238)** - 80  
+**[Claw of the Frost Wyrm](https://database.turtle-wow.org/?item=23242)** - 180  
+**[The Hungering Cold](https://database.turtle-wow.org/?item=23577)** - 300  
+
+__**Other**__
+**[The Phylactery of Kel'Thuzad (Melee)](https://database.turtle-wow.org/?item=23207)** - 0
+**[The Phylactery of Kel'Thuzad](https://database.turtle-wow.org/?item=23206)** - 0
+**[Power of the Scourge](https://database.turtle-wow.org/?item=23545)** - 120  
+**[Resilience of the Scourge](https://database.turtle-wow.org/?item=23547)** - 120  
+**[Might of the Scourge](https://database.turtle-wow.org/?item=23548)** - 120  
+**[Fortitude of the Scourge](https://database.turtle-wow.org/?item=23549)** - 120  

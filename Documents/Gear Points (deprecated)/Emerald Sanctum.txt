@@ -1,0 +1,51 @@
+__**:shield:Head:shield:**__
+**[Jadestone Helmet](https://database.turtle-wow.org/?item=61207)** - 70  
+
+__**:shield:Shoulders:shield:**__
+**[Mantel of the Wakener](https://database.turtle-wow.org/?item=61214)** - 68  
+
+__**:shield:Chest:shield:**__
+**[Robe of the Dreamways](https://database.turtle-wow.org/?item=61206)** - 60  
+**[Naturecaller's Tunic](https://database.turtle-wow.org/?item=61524)** - 118  
+
+__**:shield:Wrists:shield:**__
+**[Sanctum Bark Wraps](https://database.turtle-wow.org/?item=61212)** - 88  
+
+__**:shield:Hands:shield:**__
+**[Talonwind Gauntlets](https://database.turtle-wow.org/?item=61213)** - 30  
+
+__**:shield:Legs:shield:**__
+**[Ancient Jade Leggings](https://database.turtle-wow.org/?item=61239)** - 40  
+
+__**:shield:Feet:shield:**__
+**[Sandals of Lucidity](https://database.turtle-wow.org/?item=61211)** - 55  
+
+__**:shield:Back:shield:**__
+**[Veil of Nightmare](https://database.turtle-wow.org/?item=61210)** - 88  
+
+__**:shield:Jewlery:shield:**__
+**[Ring of Nature's Duality](https://database.turtle-wow.org/?item=61205)** - 30
+**[Shard of Nightmare](https://database.turtle-wow.org/?item=61209)** - 180  
+**[Choker of the Emerald Lord](https://database.turtle-wow.org/?item=61522)** - 80  
+**[Breath of Solnius](https://database.turtle-wow.org/?item=61527)** - 200  
+
+__**:shield:Weapons:shield:**__
+**[Aspect of Seradane](https://database.turtle-wow.org/?item=41076)** - 0 
+**[Libram of the Dreamguard](https://database.turtle-wow.org/?item=61203)** - 28  
+**[Totem of the Stonebreaker](https://database.turtle-wow.org/?item=61204)** - 28  
+**[Staff of the Dreamer](https://database.turtle-wow.org/?item=61208)** - 200  
+**[Mallet of the Awakening](https://database.turtle-wow.org/?item=61237)** - 150  
+**[Scaleshield of Emerald Flight](https://database.turtle-wow.org/?item=61238)** - 50  
+**[Axe of Dormant Slumber](https://database.turtle-wow.org/?item=61448)** - 180  
+**[Crystal Sword of the Blossom](https://database.turtle-wow.org/?item=61523)** - 280  
+**[Nature's Call](https://database.turtle-wow.org/?item=61525)** - 300  
+**[Jadestone Protector](https://database.turtle-wow.org/?item=61526)** - 100  
+**[Idol of the Emerald Rot](https://database.turtle-wow.org/?item=61455)** - 28
+
+__**:shield:Other:shield:**__
+**[Head of Solnius (Ring of Nordrassil)](https://database.turtle-wow.org/?item=61195)** - 200  
+**[Head of Solnius (The Heart of Dreams)](https://database.turtle-wow.org/?item=61194)** - 200  
+**[Head of Solnius (Verdant Eye Necklace)](https://database.turtle-wow.org/?item=61193)** - 200  
+**[Claw of Erennius (Jadestone Skewer)](https://database.turtle-wow.org/?item=61650)** - 150  
+**[Claw of Erennius (Jadestone Mallet)](https://database.turtle-wow.org/?item=61651)** - 150  
+**[Claw of Erennius (Claw of Senthos)](https://database.turtle-wow.org/?item=61740)** - 150  

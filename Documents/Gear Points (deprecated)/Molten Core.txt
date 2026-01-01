@@ -1,0 +1,93 @@
+__**:shield:This tier did not use tokens:shield:**__
+**[Tier 1 (Head)](https://www.wowhead.com/classic/guide/tier-1-molten-core-armor-sets-bonuses-wow-classic)** - 12  
+**[Tier 1 (Legs)](https://www.wowhead.com/classic/guide/tier-1-molten-core-armor-sets-bonuses-wow-classic)** - 12  
+**[Tier 1 (Shoulder)](https://www.wowhead.com/classic/guide/tier-1-molten-core-armor-sets-bonuses-wow-classic)** - 12  
+**[Tier 1 (Chest)](https://www.wowhead.com/classic/guide/tier-1-molten-core-armor-sets-bonuses-wow-classic)** - 16  
+**[Tier 1 (Wrist)](https://www.wowhead.com/classic/guide/tier-1-molten-core-armor-sets-bonuses-wow-classic)** - 8  
+**[Tier 1 (Feet)](https://www.wowhead.com/classic/guide/tier-1-molten-core-armor-sets-bonuses-wow-classic)** - 12  
+**[Tier 1 (Hands)](https://www.wowhead.com/classic/guide/tier-1-molten-core-armor-sets-bonuses-wow-classic)** - 12  
+**[Tier 1 (Waist)](https://www.wowhead.com/classic/guide/tier-1-molten-core-armor-sets-bonuses-wow-classic)** - 8
+
+
+__**:shield:Head:shield:**__
+**[Crown of Destruction](https://database.turtle-wow.org/?item=18817)** - 40  
+**[Helm of the Lifegiver](https://database.turtle-wow.org/?item=18870)** - 8  
+
+__**:shield:Shoulders:shield:**__
+**[Wild Growth Spaulders](https://database.turtle-wow.org/?item=18810)** - 36  
+**[Deep Earth Spaulders](https://database.turtle-wow.org/?item=18829)** - 20  
+**[Fireguard Shoulders](https://database.turtle-wow.org/?item=19139)** - 4  
+
+__**:shield:Chest:shield:**__
+**[Robe of Volatile Power](https://database.turtle-wow.org/?item=19145)** - 42  
+
+
+__**:shield:Wrists:shield:**__
+**[Wristguards of True Flight](https://database.turtle-wow.org/?item=18812)** - 28  
+**[Wristguards of Stability](https://database.turtle-wow.org/?item=19146)** - 8  
+
+__**:shield:Hands:shield:**__
+**[Gloves of the Hypnotic Flame](https://database.turtle-wow.org/?item=18808)** - 16  
+**[Aged Core Leather Gloves](https://database.turtle-wow.org/?item=18823)** - 12  
+**[Flameguard Gauntlets](https://database.turtle-wow.org/?item=19143)** - 14 
+
+__**:shield:Legs:shield:**__
+**[Flamewalker Legplates](https://database.turtle-wow.org/?item=18861)** - 4 
+**[Manastorm Leggings](https://database.turtle-wow.org/?item=18872)** - 8  
+**[Salamander Scale Pants](https://database.turtle-wow.org/?item=18875)** - 42 
+
+__**:shield:Waist:shield:**__
+**[Sash of Whispered Secrets](https://database.turtle-wow.org/?item=18809)** - 16  
+**[Mana Igniting Cord](https://database.turtle-wow.org/?item=19136)** - 28  
+**[Onslaught Girdle](https://database.turtle-wow.org/?item=19137)** - 48  
+
+__**:shield:Feet:shield:**__
+**[Core Forged Greaves](https://database.turtle-wow.org/?item=18806)** - 4  
+**[Magma Tempered Boots](https://database.turtle-wow.org/?item=18824)** - 8 
+**[Sabatons of the Flamewalker](https://database.turtle-wow.org/?item=19144)** - 12  
+
+__**:shield:Back:shield:**__
+**[Cloak of the Shrouded Mists](https://database.turtle-wow.org/?item=17102)** - 20  
+**[Dragon's Blood Cape](https://database.turtle-wow.org/?item=17107)** - 16  
+**[Fireproof Cloak](https://database.turtle-wow.org/?item=18811)** - 4  
+
+__**:shield:Jewlery:shield:**__
+**[Band of Accuria](https://database.turtle-wow.org/?item=17063)** - 80  
+**[Medallion of Steadfast Might](https://database.turtle-wow.org/?item=17065)** - 36  
+**[Shard of the Flame](https://database.turtle-wow.org/?item=17082)** - 12  
+**[Choker of Enlightenment](https://database.turtle-wow.org/?item=17109)** - 8  
+**[Seal of the Archmagus](https://database.turtle-wow.org/?item=17110)** - 8  
+**[Choker of the Firelord](https://database.turtle-wow.org/?item=18814)** - 50  
+**[Essence of the Pure Flame](https://database.turtle-wow.org/?item=18815)** - 12  
+**[Talisman of Ephemeral Power](https://database.turtle-wow.org/?item=18820)** - 20  
+**[Quick Strike Ring](https://database.turtle-wow.org/?item=18821)** - 36  
+**[Heavy Dark Iron Ring](https://database.turtle-wow.org/?item=18879)** - 30 
+**[Cauterizing Band](https://database.turtle-wow.org/?item=19140)** - 28   
+**[Ring of Spell Power](https://database.turtle-wow.org/?item=19147)** - 8  
+
+__**:shield:Weapons:shield:**__
+**[Drillborer Disk](https://database.turtle-wow.org/?item=17066)** - 24  
+**[Striker's Mark](https://database.turtle-wow.org/?item=17069)** - 40  
+**[Gutgore Ripper](https://database.turtle-wow.org/?item=17071)** - 12  
+**[Blastershot Launcher](https://database.turtle-wow.org/?item=17072)** - 22 
+**[Earthshaker](https://database.turtle-wow.org/?item=17073)** - 12  
+**[Shadowstrike](https://database.turtle-wow.org/?item=17074)** - 4  
+**[Bonereaver's Edge](https://database.turtle-wow.org/?item=17076)** - 22  
+**[Crimson Shocker](https://database.turtle-wow.org/?item=17077)** - 4  
+**[Azuresong Mageblade](https://database.turtle-wow.org/?item=17103)** - 50  
+**[Spinal Reaper](https://database.turtle-wow.org/?item=17104)** - 20  
+**[Aurastone Hammer](https://database.turtle-wow.org/?item=17105)** - 22  
+**[Malistar's Defender](https://database.turtle-wow.org/?item=17106)** - 16  
+**[Eskhandar's Right Claw](https://database.turtle-wow.org/?item=18203)** - 16  
+**[Finkle's Lava Dredger](https://database.turtle-wow.org/?item=18803)** - 12  
+**[Core Hound Tooth](https://database.turtle-wow.org/?item=18805)** - 32  
+**[Perdition's Blade](https://database.turtle-wow.org/?item=18816)** - 40  
+**[Obsidian Edged Blade](https://database.turtle-wow.org/?item=18822)** - 12  
+**[Brutality Blade](https://database.turtle-wow.org/?item=18832)** - 24  
+**[Staff of Dominance](https://database.turtle-wow.org/?item=18842)** - 24 
+**[Sorcerous Dagger](https://database.turtle-wow.org/?item=18878)** - 16  
+**[Band of Sulfuras](https://database.turtle-wow.org/?item=19138)** - 24 
+**[Fire Runed Grimoire](https://database.turtle-wow.org/?item=19142)** - 12  
+
+__**:shield:Other:shield:**__
+**[Ancient Petrified Leaf](https://database.turtle-wow.org/?item=18703)** - 4 

@@ -1,0 +1,116 @@
+__**:shield:This tier did not use tokens:shield:**__
+**[Tier 2 (Waist)](https://www.wowhead.com/classic/guide/tier-2-blackwing-lair-armor-sets-bonuses-wow-classic)** - 32
+**[Tier 2 (Feet)](https://www.wowhead.com/classic/guide/tier-2-blackwing-lair-armor-sets-bonuses-wow-classic)** - 32
+**[Tier 2 (Hands)](https://www.wowhead.com/classic/guide/tier-2-blackwing-lair-armor-sets-bonuses-wow-classic)** - 32
+**[Tier 2 (Head)](https://www.wowhead.com/classic/guide/tier-2-blackwing-lair-armor-sets-bonuses-wow-classic)** - 40
+**[Tier 2 (Legs)](https://www.wowhead.com/classic/guide/tier-2-blackwing-lair-armor-sets-bonuses-wow-classic)** - 32
+**[Tier 2 (Chest)](https://www.wowhead.com/classic/guide/tier-2-blackwing-lair-armor-sets-bonuses-wow-classic)** - 48
+**[Tier 2 (Shoulder)](https://www.wowhead.com/classic/guide/tier-2-blackwing-lair-armor-sets-bonuses-wow-classic)** - 40
+**[Tier 2 (Wrists)](https://www.wowhead.com/classic/guide/tier-2-blackwing-lair-armor-sets-bonuses-wow-classic)** - 28
+
+
+__**:shield:Head:shield:**__
+**[Helm of Endless Rage](https://database.turtle-wow.org/?item=19372)** - 44  
+**[Mish'undare, Circlet of the Mind's Eye](https://database.turtle-wow.org/?item=19375)** - 96  
+
+__**:shield:Shoulders:shield:**__
+**[Mantle of the Blackwing Cabal](https://database.turtle-wow.org/?item=19370)** - 72  
+**[Black Brood Pauldrons](https://database.turtle-wow.org/?item=19373)** - 40  
+**[Taut Dragonhide Shoulderpads](https://database.turtle-wow.org/?item=19389)** - 44  
+**[Drake Talon Pauldrons](https://database.turtle-wow.org/?item=19394)** - 52  
+
+__**:shield:Chest:shield:**__
+**[Black Ash Robe](https://database.turtle-wow.org/?item=19399)** - 12  
+**[Malfurion's Blessed Bulwark](https://database.turtle-wow.org/?item=19405)** - 40  
+**[Interlaced Shadow Jerkin](https://database.turtle-wow.org/?item=19439)** - 4  
+
+__**:shield:Wrists:shield:**__
+**[Bracers of Arcane Accuracy](https://database.turtle-wow.org/?item=19374)** - 72  
+
+__**:shield:Hands:shield:**__
+**[Gloves of Rapid Evolution](https://database.turtle-wow.org/?item=19369)** - 16  
+**[Taut Dragonhide Gloves](https://database.turtle-wow.org/?item=19390)** - 24  
+**[Ebony Flame Gloves](https://database.turtle-wow.org/?item=19407)** - 40  
+
+__**:shield:Legs:shield:**__
+**[Empowered Leggings](https://database.turtle-wow.org/?item=19385)** - 100 
+**[Primalist's Linked Legguards](https://database.turtle-wow.org/?item=19401)** - 20  
+**[Legguards of the Fallen Crusader](https://database.turtle-wow.org/?item=19402)** - 24  
+**[Emberweave Leggings](https://database.turtle-wow.org/?item=19433)** - 12  
+
+__**:shield:Waist:shield:**__
+**[Therazane's Link](https://database.turtle-wow.org/?item=19380)** - 36  
+**[Angelista's Grasp](https://database.turtle-wow.org/?item=19388)** - 36  
+**[Girdle of the Fallen Crusader](https://database.turtle-wow.org/?item=19392)** - 22  
+**[Primalist's Linked Waistguard](https://database.turtle-wow.org/?item=19393)** - 16  
+**[Taut Dragonhide Belt](https://database.turtle-wow.org/?item=19396)** - 36  
+**[Firemaw's Clutch](https://database.turtle-wow.org/?item=19400)** - 44  
+
+__**:shield:Feet:shield:**__
+**[Boots of the Shadow Flame](https://database.turtle-wow.org/?item=19381)** - 84  
+**[Chromatic Boots](https://database.turtle-wow.org/?item=19387)** - 84  
+**[Shimmering Geta](https://database.turtle-wow.org/?item=19391)** - 40  
+**[Boots of Pure Thought](https://database.turtle-wow.org/?item=19437)** - 48  
+**[Ringo's Blizzard Boots](https://database.turtle-wow.org/?item=19438)** - 48  
+
+__**:shield:Back:shield:**__
+**[Cloak of the Brood Lord](https://database.turtle-wow.org/?item=19378)** - 20  
+**[Elementium Threaded Cloak](https://database.turtle-wow.org/?item=19386)** - 32  
+**[Cloak of Firemaw](https://database.turtle-wow.org/?item=19398)** - 32  
+**[Shroud of Pure Thought](https://database.turtle-wow.org/?item=19430)** - 64  
+**[Cloak of Draconic Might](https://database.turtle-wow.org/?item=19436)** - 16  
+
+__**:shield:Jewlery:shield:**__
+**[Arcane Infused Gem](https://database.turtle-wow.org/?item=19336)** - 16  
+**[The Black Book](https://database.turtle-wow.org/?item=19337)** - 16  
+**[Pendant of the Fallen Dragon](https://database.turtle-wow.org/?item=19371)** - 28  
+**[Archimtiros' Ring of Reckoning](https://database.turtle-wow.org/?item=19376)** - 20 
+**[Prestor's Talisman of Connivery](https://database.turtle-wow.org/?item=19377)** - 90  
+**[Neltharion's Tear](https://database.turtle-wow.org/?item=19379)** - 200  
+**[Pure Elementium Band](https://database.turtle-wow.org/?item=19382)** - 76  
+**[Rejuvenating Gem](https://database.turtle-wow.org/?item=19395)** - 150
+**[Ring of Blackrock](https://database.turtle-wow.org/?item=19397)** - 52  
+**[Band of Forced Concentration](https://database.turtle-wow.org/?item=19403)** - 52  
+**[Drake Fang Talisman](https://database.turtle-wow.org/?item=19406)** - 150  
+**[Styleen's Impeding Scarab](https://database.turtle-wow.org/?item=19431)** - 120  
+**[Circle of Applied Force](https://database.turtle-wow.org/?item=19432)** - 32  
+**[Band of Dark Dominion](https://database.turtle-wow.org/?item=19434)** - 40  
+**[Mind Quickening Gem](https://database.turtle-wow.org/?item=19339)** - 60  
+
+__**:shield:Weapons:shield:**__
+**[The Untamed Blade](https://database.turtle-wow.org/?item=19334)** - 50 
+**[Spineshatter](https://database.turtle-wow.org/?item=19335)** - 20  
+**[Rune of Metamorphosis](https://database.turtle-wow.org/?item=19340)** - 16  
+**[Lifegiving Gem](https://database.turtle-wow.org/?item=19341)** - 68  
+**[Venomous Totem](https://database.turtle-wow.org/?item=19342)** - 16  
+**[Natural Alignment Crystal](https://database.turtle-wow.org/?item=19344)** - 20  
+**[Aegis of Preservation](https://database.turtle-wow.org/?item=19345)** - 20  
+**[Dragonfang Blade](https://database.turtle-wow.org/?item=19346)** - 48  
+**[Claw of Chromaggus](https://database.turtle-wow.org/?item=19347)** - 72  
+**[Red Dragonscale Protector](https://database.turtle-wow.org/?item=19348)** - 28  
+**[Elementium Reinforced Bulwark](https://database.turtle-wow.org/?item=19349)** - 76  
+**[Heartstriker](https://database.turtle-wow.org/?item=19350)** - 40  
+**[Maladath, Runed Blade of the Black Flight](https://database.turtle-wow.org/?item=19351)** - 110  
+**[Chromatically Tempered Sword](https://database.turtle-wow.org/?item=19352)** - 110  
+**[Drake Talon Cleaver](https://database.turtle-wow.org/?item=19353)** - 130  
+**[Draconic Avenger](https://database.turtle-wow.org/?item=19354)** - 16  
+**[Shadow Wing Focus Staff](https://database.turtle-wow.org/?item=19355)** - 48  
+**[Staff of the Shadow Flame](https://database.turtle-wow.org/?item=19356)** - 100  
+**[Herald of Woe](https://database.turtle-wow.org/?item=19357)** - 130  
+**[Draconic Maul](https://database.turtle-wow.org/?item=19358)** - 12  
+**[Lok'amir il Romathis](https://database.turtle-wow.org/?item=19360)** - 150  
+**[Ashjre'thul, Crossbow of Smiting](https://database.turtle-wow.org/?item=19361)** - 150  
+**[Doom's Edge](https://database.turtle-wow.org/?item=19362)** - 32  
+**[Crul'shoruk, Edge of Chaos](https://database.turtle-wow.org/?item=19363)** - 130  
+**[Ashkandi, Greatsword of the Brotherhood](https://database.turtle-wow.org/?item=19364)** - 130  
+**[Claw of the Black Drake](https://database.turtle-wow.org/?item=19365)** - 52 
+**[Dragon's Touch](https://database.turtle-wow.org/?item=19367)** - 32  
+**[Dragonbreath Hand Cannon](https://database.turtle-wow.org/?item=19368)** - 52  
+**[Essence Gatherer](https://database.turtle-wow.org/?item=19435)** - 8  
+
+__**:shield:Other:shield:**__
+**[Head of Nefarian](https://database.turtle-wow.org/?item=19003)** - 40  
+**[Head of Nefarian (Master Dragonslayer's Orb)](https://database.turtle-wow.org/?item=19366)** - 40  
+**[Head of Nefarian (
+Master Dragonslayer's Medallion)](https://database.turtle-wow.org/?item=19383)** - 40  
+**[Head of Nefarian (Master Dragonslayer's Ring)](https://database.turtle-wow.org/?item=19384)** - 40  

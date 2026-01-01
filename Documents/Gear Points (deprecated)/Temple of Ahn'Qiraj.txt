@@ -1,0 +1,156 @@
+__**:shield:Shared Tokens:shield:**__
+* **Head - (**Warrior/Priest/Mage/Warlock**)(**Paladin/Hunter/Rogue/Shaman/Druid**)**
+* **Legs - (**Warrior/Rogue/Priest/Mage**)(**Paladin/Hunter/Shaman/Warlock/Druid**)**
+* **Shoulders/Feet - (**Warrior/Hunter/Rogue/Priest**)(**Paladin/Shaman/Mage/Warlock/Druid**)**
+* **Chest - (**Warrior/Paladin/Hunter/Rogue/Shaman**)(**Priest/Mage/Warlock/Druid**)**
+**[Tier 2.5 (Head)](https://www.wowhead.com/classic/guide/temple-ahnqiraj-aq40-tier-25-classic-wow)** - 72 
+**[Tier 2.5 (Legs)](https://www.wowhead.com/classic/guide/temple-ahnqiraj-aq40-tier-25-classic-wow)** - 76
+**[Tier 2.5 (Shoulder)](https://www.wowhead.com/classic/guide/temple-ahnqiraj-aq40-tier-25-classic-wow)** - 68 
+**[Tier 2.5 (Chest)](https://www.wowhead.com/classic/guide/temple-ahnqiraj-aq40-tier-25-classic-wow)** - 128 
+**[Tier 2.5 (Feet)](https://www.wowhead.com/classic/guide/temple-ahnqiraj-aq40-tier-25-classic-wow)** - 68
+
+
+__**:shield:Head:shield:**__
+**[Wormhide Protector](https://database.turtle-wow.org/?item=21614)** - 4
+**[Don Rigoberto's Lost Hat](https://database.turtle-wow.org/?item=21615)** - 88  
+**[Creeping Vine Helm](https://database.turtle-wow.org/?item=21669)** - 48  
+**[Guise of the Devourer](https://database.turtle-wow.org/?item=21693)** - 60  
+**[Yshgo'lar, Cowl of Fanatical Devotion](https://database.turtle-wow.org/?item=41077)** - 150  
+
+__**:shield:Shoulders:shield:**__
+**[Pauldrons of the Unrelenting](https://database.turtle-wow.org/?item=21639)** - 76  
+**[Mantle of Wicked Revenge](https://database.turtle-wow.org/?item=21665)** - 72  
+**[Mantle of the Desert Crusade](https://database.turtle-wow.org/?item=21683)** - 68  
+**[Mantle of the Desert's Fury](https://database.turtle-wow.org/?item=21684)** - 4  
+**[Mantle of Phrenic Power](https://database.turtle-wow.org/?item=21686)** - 40  
+**[Ternary Mantle](https://database.turtle-wow.org/?item=21694)** - 60  
+**[Barrage Shoulders](https://database.turtle-wow.org/?item=21699)** - 36  
+
+__**:shield:Chest:shield:**__
+**[Silithid Carapace Chestguard](https://database.turtle-wow.org/?item=21652)** - 4  
+**[Robes of the Guardian Saint](https://database.turtle-wow.org/?item=21663)** - 136  
+**[Robes of the Battleguard](https://database.turtle-wow.org/?item=21671)** - 48  
+**[Vest of Swift Execution](https://database.turtle-wow.org/?item=21680)** - 56 
+**[Robes of the Triumvirate](https://database.turtle-wow.org/?item=21696)** - 4  
+**[Breastplate of Annihilation](https://database.turtle-wow.org/?item=21814)** - 92  
+**[Garb of Royal Ascension](https://database.turtle-wow.org/?item=21838)** - 4   
+
+__**:shield:Wrists:shield:**__
+**[Qiraji Execution Bracers](https://database.turtle-wow.org/?item=21602)** - 88  
+**[Bracelets of Royal Redemption](https://database.turtle-wow.org/?item=21604)** - 80  
+**[Burrower Bracers](https://database.turtle-wow.org/?item=21611)** - 48
+**[Hive Defiler Wristguards](https://database.turtle-wow.org/?item=21618)** - 24  
+**[Beetle Scaled Wristguards](https://database.turtle-wow.org/?item=21708)** - 4  
+
+__**:shield:Hands:shield:**__
+**[Gauntlets of Annihilation](https://database.turtle-wow.org/?item=21581)** - 130 
+**[Dark Storm Gauntlets](https://database.turtle-wow.org/?item=21585)** - 130 
+**[Vek'lor's Gloves of Devastation](https://database.turtle-wow.org/?item=21599)** - 90  
+**[Gloves of the Hidden Temple](https://database.turtle-wow.org/?item=21605)** - 60  
+**[Wasphide Gauntlets](https://database.turtle-wow.org/?item=21617)** - 64  
+**[Gloves of the Messiah](https://database.turtle-wow.org/?item=21619)** - 44  
+**[Gauntlets of the Righteous Champion](https://database.turtle-wow.org/?item=21623)** - 60  
+**[Gauntlets of Kalimdor](https://database.turtle-wow.org/?item=21624)** - 48  
+**[Gloves of Enforcement](https://database.turtle-wow.org/?item=21672)** - 64  
+**[Gauntlets of Steadfast Determination](https://database.turtle-wow.org/?item=21674)** - 64  
+**[Bile-Covered Gauntlets](https://database.turtle-wow.org/?item=21682)** - 90  
+**[Gloves of Ebru](https://database.turtle-wow.org/?item=21689)** - 60  
+**[Ooze-ridden Gauntlets](https://database.turtle-wow.org/?item=21691)** - 4  
+**[Gloves of the Immortal](https://database.turtle-wow.org/?item=21888)** - 8  
+**[Gloves of the Redeemed Prophet](https://database.turtle-wow.org/?item=21889)** - 70  
+**[Gloves of the Primordial Burrower](https://database.turtle-wow.org/?item=55553)** - 120  
+**[Carapace Handguards](https://database.turtle-wow.org/?item=55554)** - 120  
+
+__**:shield:Legs:shield:**__
+**[Slime-coated Leggings](https://database.turtle-wow.org/?item=21626)** - 4  
+**[Scaled Sand Reaver Leggings](https://database.turtle-wow.org/?item=21651)** - 52  
+**[Legplates of Blazing Light](https://database.turtle-wow.org/?item=21667)** - 76 
+**[Scaled Leggings of Qiraji Fury](https://database.turtle-wow.org/?item=21668)** - 20   
+**[Leggings of the Festering Swarm](https://database.turtle-wow.org/?item=21676)** - 32  
+**[Leggings of Immersion](https://database.turtle-wow.org/?item=21698)** - 40  
+
+__**:shield:Waist:shield:**__
+**[Grasp of the Old God](https://database.turtle-wow.org/?item=21582)** - 130  
+**[Belt of Never-ending Agony](https://database.turtle-wow.org/?item=21586)** - 130 
+**[Royal Qiraji Belt](https://database.turtle-wow.org/?item=21598)** - 84  
+**[Belt of the Fallen Emperor](https://database.turtle-wow.org/?item=21606)** - 68  
+**[Grasp of the Fallen Emperor](https://database.turtle-wow.org/?item=21607)** - 20  
+**[Regenerating Belt of Vek'nilash](https://database.turtle-wow.org/?item=21609)** - 52  
+**[Thick Qirajihide Belt](https://database.turtle-wow.org/?item=21675)** - 60  
+**[Triad Girdle](https://database.turtle-wow.org/?item=21692)** - 32  
+**[Eyestalk Waist Cord](https://database.turtle-wow.org/?item=22730)** - 130  
+
+__**:shield:Feet:shield:**__
+**[Boots of Epiphany](https://database.turtle-wow.org/?item=21600)** - 88  
+**[Wormscale Stompers](https://database.turtle-wow.org/?item=21612)** - 60  
+**[Wormhide Boots](https://database.turtle-wow.org/?item=21613)** - 160  
+**[Hive Tunneler's Boots](https://database.turtle-wow.org/?item=21645)** - 60  
+**[Recomposed Boots](https://database.turtle-wow.org/?item=21648)** - 4  
+**[Boots of the Fallen Hero](https://database.turtle-wow.org/?item=21688)** - 68  
+**[Boots of the Redeemed Prophecy](https://database.turtle-wow.org/?item=21704)** - 70  
+**[Boots of the Fallen Prophet](https://database.turtle-wow.org/?item=21705)** - 12  
+**[Boots of the Unwavering Will](https://database.turtle-wow.org/?item=21706)** - 28  
+
+__**:shield:Back:shield:**__
+**[Eye of C'Thun (Cloak of the Fallen God)](https://database.turtle-wow.org/?item=21710)** - 120  
+**[Cloak of Clarity](https://database.turtle-wow.org/?item=21583)** - 130  
+**[Cloak of the Golden Hive](https://database.turtle-wow.org/?item=21621)** - 40  
+**[Cloak of Untold Secrets](https://database.turtle-wow.org/?item=21627)** - 4  
+**[Cape of the Trinity](https://database.turtle-wow.org/?item=21697)** - 4  
+**[Cloak of Concentrated Hatred](https://database.turtle-wow.org/?item=21701)** - 88  
+**[Cloak of the Devoured](https://database.turtle-wow.org/?item=22731)** - 130  
+
+__**:shield:Jewlery:shield:**__
+**[Vanquished Tentacle of C'thun](https://database.turtle-wow.org/?item=21579)** - 20  
+**[Eye of C'Thun (Ring of the Fallen God)](https://database.turtle-wow.org/?item=21709)** - 120  
+**[Eye of C'Thun (Amulet of the Fallen God)](https://database.turtle-wow.org/?item=21712)** - 120  
+**[Ring of the Godslayer](https://database.turtle-wow.org/?item=21596)** - 80  
+**[Ring of Emperor Vek'lor](https://database.turtle-wow.org/?item=21601)** - 80  
+**[Amulet of Vek'nilash](https://database.turtle-wow.org/?item=21608)** - 80  
+**[Ring of the Martyr](https://database.turtle-wow.org/?item=21620)** - 80  
+**[Scarab Brooch](https://database.turtle-wow.org/?item=21625)** - 80  
+**[Fetish of the Sand Reaver](https://database.turtle-wow.org/?item=21647)** - 20  
+**[Barbed Choker](https://database.turtle-wow.org/?item=21664)** - 80  
+**[Badge of the Swarmguard](https://database.turtle-wow.org/?item=21670)** - 200 
+**[Ring of the Qiraji Fury](https://database.turtle-wow.org/?item=21677)** - 56  
+**[Necklace of Purity](https://database.turtle-wow.org/?item=21678)** - 4 
+**[Ring of the Devoured](https://database.turtle-wow.org/?item=21681)** - 64  
+**[Petrified Scarab](https://database.turtle-wow.org/?item=21685)** - 40  
+**[Ukko's Ring of Darkness](https://database.turtle-wow.org/?item=21687)** - 4  
+**[Angelista's Charm](https://database.turtle-wow.org/?item=21690)** - 48  
+**[Angelista's Touch](https://database.turtle-wow.org/?item=21695)** - 80  
+**[Pendant of the Qiraji Guardian](https://database.turtle-wow.org/?item=21700)** - 24  
+**[Amulet of Foul Warding](https://database.turtle-wow.org/?item=21702)** - 4   
+**[Ring of Swarming Thought](https://database.turtle-wow.org/?item=21707)** - 48  
+**[Ritssyn's Ring of Chaos](https://database.turtle-wow.org/?item=21836)** - 44  
+**[Shard of the Fallen Star](https://database.turtle-wow.org/?item=21891)** - 80 
+**[The Burrower's Shell](https://database.turtle-wow.org/?item=23558)** - 28   
+**[Jom Gabbar](https://database.turtle-wow.org/?item=23570)** - 200  
+
+__**:shield:Weapons:shield:**__
+**[Death's Sting](https://database.turtle-wow.org/?item=21126)** - 280  
+**[Staff of the Qiraji Prophets](https://database.turtle-wow.org/?item=21128)** - 40  
+**[Dark Edge of Insanity](https://database.turtle-wow.org/?item=21134)** - 420 
+**[Royal Scepter of Vek'lor](https://database.turtle-wow.org/?item=21597)** - 84  
+**[Wand of the Qiraji Nobility](https://database.turtle-wow.org/?item=21603)** - 56  
+**[Wormscale Blocker](https://database.turtle-wow.org/?item=21610)** - 100  
+**[Huhuran's Stinger](https://database.turtle-wow.org/?item=21616)** - 52  
+**[Sharpened Silithid Femur](https://database.turtle-wow.org/?item=21622)** - 200  
+**[Barb of the Sand Reaver](https://database.turtle-wow.org/?item=21635)** - 200  
+**[Ancient Qiraji Ripper](https://database.turtle-wow.org/?item=21650)** - 200  
+**[Sartura's Might](https://database.turtle-wow.org/?item=21666)** - 88  
+**[Silithid Claw](https://database.turtle-wow.org/?item=21673)** - 84  
+**[Kalimdor's Revenge](https://database.turtle-wow.org/?item=21679)** - 100  
+**[Hammer of Ji'zhi](https://database.turtle-wow.org/?item=21703)** - 80  
+**[Anubisath Warhammer](https://database.turtle-wow.org/?item=21837)** - 100  
+**[Scepter of the False Prophet](https://database.turtle-wow.org/?item=21839)** - 200  
+**[Neretzek, The Blood Drinker](https://database.turtle-wow.org/?item=21856)** - 16  
+**[Totem of Life](https://database.turtle-wow.org/?item=22396)** - 20  
+**[Idol of Health](https://database.turtle-wow.org/?item=22399)** - 28  
+**[Libram of Grace](https://database.turtle-wow.org/?item=22402)** - 20  
+**[Larvae of the Great Worm](https://database.turtle-wow.org/?item=23557)** - 300  
+**[Ivonor, Maiden's Mallet](https://database.turtle-wow.org/?item=55555)** - 200  
+**[Remnants of an Old God](https://database.turtle-wow.org/?item=60003)** - 280  
+
+__**:shield:Other:shield:**__
+**[Mark of C'Thun](https://database.turtle-wow.org/?item=22732)** - 130  
